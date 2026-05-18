@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/4AiXzf8.jpeg" alt="naruto" style="width:100%; border-radius:10px;">
+<img src="https://i.imgur.com/C2D8gE5.jpeg" alt="naruto" style="width:100%; border-radius:10px;">
 
 <h1 align="center">
-  <span class="glow">𝗖𝗲́𝗹𝗲𝘀𝘁𝗶𝗻 𝗢𝗹𝘂𝗮</span><br>
+  <span class="glow">𝗖𝗲́𝗹𝗲𝘀𝘁𝗶𝗻 </span><br>
   𝗖𝗮𝘀𝘀𝗶𝗱𝘆 𝗔𝗜 🤖
 </h1>
 
@@ -14,9 +14,9 @@
 
 <h2>🚀 Fonctionnalités</h2>
 <ul>
-  <li>🧠 Compréhension avancée des messages</li>
+  <li>🧠 Compréhension avancée du prompt</li>
   <li>🎭 Style selector (anime, réaliste, 3D, Ghibli)</li>
-  <li>✨ Amélioration d’images (enhance)</li>
+  <li>✨ gem enhance (améliore qualité image)</li>
   <li>🖼️ Multi-image fusion</li>
   <li>⚡ Réponses rapides et intelligentes</li>
 </ul>
