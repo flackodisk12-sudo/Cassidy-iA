@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/C2D8gE5.jpeg" alt="naruto" style="width:100%; border-radius:10px;">
+<img src="https://i.imgur.com/Q7FypwV.gif" alt="naruto gif" style="width:100%; border-radius:10px;">
 
 <h1 align="center">
-  <span class="glow">𝗖𝗲́𝗹𝗲𝘀𝘁𝗶𝗻 </span><br>
+  <span class="glow">𝗖𝗲́𝗹𝗲𝘀𝘁𝗶𝗻 𝗢𝗹𝘂𝗮</span><br>
   𝗖𝗮𝘀𝘀𝗶𝗱𝘆 𝗔𝗜 🤖
 </h1>
 
